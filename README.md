@@ -3,6 +3,10 @@
 Paste your notes or a topic, and get AI-generated flashcards or a quiz —
 flip through cards, take the quiz, and see which questions you got wrong.
 
+# Project Demo
+
+[Watch the Live Demo Video]  (https://drive.google.com/file/d/1_WAwSao92Kx07jRWgShYbVz52HaRPoxt/view?usp=drivesdk)
+
 # Features
 
 - Generate interactive flashcards from notes or topics
