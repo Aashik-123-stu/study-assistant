@@ -49,7 +49,7 @@ function App() {
   setFlashcardLoading(true);
   setFlashcardError("");
   try {
-    const response = await fetch("http://localhost:5000/api/flashcards", {
+    const response = await fetch("https://study-assistant-grpj.onrender.com/api/flashcards", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
@@ -95,7 +95,7 @@ function App() {
   setQuizError("");
 
   try {
-    const response = await fetch("http://localhost:5000/api/quiz", {
+    const response = await fetch("https://study-assistant-grpj.onrender.com/api/quiz", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
